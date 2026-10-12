@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("ССЫЛКА_НА_СКРИПТ"))()
